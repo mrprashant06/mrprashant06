@@ -29,10 +29,10 @@ Building clean, responsive, and practical web applications.
 ##  Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/mrprashant06" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
 </a>
-<a href="https://linkedin.com/in/your-profile" target="_blank">
+<a href="https://www.linkedin.com/in/prrashant-kumar/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
 </a>
 </p>
