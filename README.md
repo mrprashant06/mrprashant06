@@ -97,26 +97,6 @@ Building clean, responsive, and practical web applications.
 - **Student Management System** - C# project with database connection.
 
 ---
-
-##  GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
-
-
----
 Thanks for visiting my profile.
 
 
