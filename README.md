@@ -16,7 +16,7 @@ Building clean, responsive, and practical web applications.
 
 ## About Me
 
--  I'm currently working on **web development projects**.
+-  I'm currently working on "web development projects".
 -  I'm learning **C#, .NET, ASP.NET Core, and Web APIs**.
 -  I build websites using **HTML, CSS, and JavaScript**.
 -  I create backend applications using **C# and .NET**.
