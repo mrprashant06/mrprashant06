@@ -18,7 +18,7 @@ Building clean, responsive, and practical web applications.
 
 -  I'm currently working on "web development projects".
 -  I'm learning "C#, .NET, ASP.NET Core, and Web APIs".
--  I build websites using **HTML, CSS, and JavaScript**.
+-  I build websites using "HTML, CSS, and JavaScript".
 -  I create backend applications using **C# and .NET**.
 -  Ask me about **HTML, CSS, JavaScript, C#, and .NET**.
 -  Reach me: **prrashantchoudhary@gmail.com**.
