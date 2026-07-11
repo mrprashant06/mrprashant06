@@ -21,8 +21,8 @@ Building clean, responsive, and practical web applications.
 -  I build websites using "HTML, CSS, and JavaScript".
 -  I create backend applications using "C# and .NET".
 -  Ask me about **HTML, CSS, JavaScript, C#, and .NET**.
--  Reach me: **prrashantchoudhary@gmail.com**.
--  Goal: Become a strong full-stack .NET developer.
+-  Reach me: "prrashantchoudhary@gmail.com".
+-  Goal: "Become a strong full-stack .NET developer".
 
 ---
 
