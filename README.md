@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Prashant Kumar</h1>
 
 <h3 align="center">
-Frontend and .NET Developer | HTML | CSS | JavaScript | C# | ASP.NET Core
+Frontend and DOT.NET Developer|HTML|CSS|JavaScript|C#|ASP.NET Core
 </h3>
 
 <p align="center">
