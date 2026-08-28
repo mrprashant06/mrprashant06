@@ -16,18 +16,18 @@ Building data-driven applications and practical web solutions.
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science graduate interested in **Data Analytics and .NET Development**
-- 📊 Working with **SQL, Excel, Power BI, and Python** for data analysis
-- 💻 Developing applications using **C#, .NET, and ASP.NET Core**
-- 🌐 Building responsive web interfaces using **HTML, CSS, and JavaScript**
-- 🗄️ Working with **SQL Server and MySQL**
-- 🔍 Interested in **Data Cleaning, EDA, Dashboards, APIs, and Database Applications**
-- 🌱 Currently improving my skills in **ASP.NET Core, Web APIs, SQL, Power BI, and Python**
-- 🎯 Career Goal: **Data Analyst / .NET Developer**
+- Computer Science graduate interested in **Data Analytics and .NET Development**
+- Working with **SQL, Excel, Power BI, and Python** for data analysis
+- Developing applications using **C#, .NET, and ASP.NET Core**
+- Building responsive web interfaces using **HTML, CSS, and JavaScript**
+- Working with **SQL Server and MySQL**
+- Interested in **Data Cleaning, EDA, Dashboards, APIs, and Database Applications**
+- Currently improving my skills in **ASP.NET Core, Web APIs, SQL, Power BI, and Python**
+- Career Goal: **Data Analyst / .NET Developer**
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://github.com/mrprashant06" target="_blank">
@@ -39,13 +39,13 @@ Building data-driven applications and practical web solutions.
   </a>
 </p>
 
-📧 **Email:** prrashantchoudhary@gmail.com
+ **Email:** prrashantchoudhary@gmail.com
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 📊 Data Analytics
+### Data Analytics
 
 - SQL
 - Microsoft Excel
@@ -60,7 +60,7 @@ Building data-driven applications and practical web solutions.
 - KPI Analysis
 - Dashboard Development
 
-### 💻 .NET Development
+###  .NET Development
 
 - C#
 - .NET
@@ -74,7 +74,7 @@ Building data-driven applications and practical web solutions.
 - Dependency Injection
 - Exception Handling
 
-### 🗄️ Database
+###  Database
 
 - SQL Server
 - MySQL
@@ -88,7 +88,7 @@ Building data-driven applications and practical web solutions.
 - Primary & Foreign Keys
 - CRUD Operations
 
-### 🌐 Frontend
+###  Frontend
 
 - HTML5
 - CSS3
@@ -98,7 +98,7 @@ Building data-driven applications and practical web solutions.
 - Form Validation
 - API Integration
 
-### 🔧 Tools
+###  Tools
 
 - Git
 - GitHub
