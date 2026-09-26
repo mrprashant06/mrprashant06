@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 
 <h3 align="center">
-Data Analyst | Java Developer | C# | ASP.NET Core | SQL | Power BI
+| Java Developer | SQL
 </h3>
 
 <p align="center">
@@ -20,7 +20,6 @@ Building data-driven applications and practical web solutions.
 - Developing applications using **Java, Spring Boot, and Rest API**
 - Building responsive web interfaces using **HTML, CSS, and JavaScript**
 - Working with **SQL Server and MySQL**
-- Interested in **Data Cleaning, EDA, Dashboards, APIs, and Database Applications**
 - Currently improving my skills in **Java, Spring Boot, OOPS, Database**
 - Career Goal: **Full Stach Developer**
 
