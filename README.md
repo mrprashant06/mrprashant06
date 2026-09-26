@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 
 <h3 align="center">
-Data Analyst | .NET Developer | C# | ASP.NET Core | SQL | Power BI
+Data Analyst | Java Developer | C# | ASP.NET Core | SQL | Power BI
 </h3>
 
 <p align="center">
@@ -16,14 +16,13 @@ Building data-driven applications and practical web solutions.
 
 ## 👨‍💻 About Me
 
-- Computer Science graduate interested in **Data Analytics and .NET Development**
-- Working with **SQL, Excel, Power BI, and Python** for data analysis
-- Developing applications using **C#, .NET, and ASP.NET Core**
+- Computer Science graduate interested in **Full Stack Development**
+- Developing applications using **Java, Spring Boot, and Rest API**
 - Building responsive web interfaces using **HTML, CSS, and JavaScript**
 - Working with **SQL Server and MySQL**
 - Interested in **Data Cleaning, EDA, Dashboards, APIs, and Database Applications**
-- Currently improving my skills in **ASP.NET Core, Web APIs, SQL, Power BI, and Python**
-- Career Goal: **Data Analyst / .NET Developer**
+- Currently improving my skills in **Java, Spring Boot, OOPS, Database**
+- Career Goal: **Full Stach Developer**
 
 ---
 
@@ -62,17 +61,14 @@ Building data-driven applications and practical web solutions.
 
 ###  .NET Development
 
-- C#
-- .NET
-- ASP.NET Core
-- ASP.NET Core Web API
+- Java
+- Spring Boot
+- Spring
+- Postman
 - Object-Oriented Programming (OOP)
 - LINQ
 - Entity Framework Core
 - REST APIs
-- CRUD Operations
-- Dependency Injection
-- Exception Handling
 
 ###  Database
 
@@ -82,9 +78,6 @@ Building data-driven applications and practical web solutions.
 - SQL Queries
 - Joins
 - Subqueries
-- Aggregate Functions
-- CTEs
-- Views
 - Primary & Foreign Keys
 - CRUD Operations
 
@@ -94,9 +87,8 @@ Building data-driven applications and practical web solutions.
 - CSS3
 - JavaScript
 - Responsive Web Design
-- DOM Manipulation
-- Form Validation
-- API Integration
+- React.js
+ 
 
 ###  Tools
 
@@ -109,3 +101,11 @@ Building data-driven applications and practical web solutions.
 - Microsoft Excel
 - SQL Server Management Studio
 - MySQL Workbench
+
+### Cloud Computing
+
+- Aws
+- Docker
+- Kubernetes
+
+
